@@ -1,1 +1,1 @@
-# styles
+cozy corner configs
